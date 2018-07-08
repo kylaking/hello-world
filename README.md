@@ -7,4 +7,3 @@ I read somewhere that you're supposed to define your goals or you won't achieve 
 1. I want to find a job that offers flexibility and remote options.
 2. I want to find a job that allows me to dress casually.
 3. I want to figure out where I want to land within the field of tech (web development, programming, UX, etc.).
-
